@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Chaima developer
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaima-dev&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaima-Hamila&theme=radical)
